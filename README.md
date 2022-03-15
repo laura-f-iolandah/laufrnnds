@@ -12,8 +12,8 @@
 <div>
      <h2 align=center>Contato 📧</h2> 
    <p align=center>
-  Pergunte-me qualquer coisa <a href="https://github.com/laufrnnds/laufrnnds/issues/new"><b>aqui</b></a>
-ou envie-me um <a href="lauraifernandes2@gmail.com"><b>e-mail</b></a>
+  Pergunte-me qualquer coisa <a href="https://github.com/laufrnnds/laufrnnds/issues/new" target="_blank"><b>aqui</b></a>
+ou envie-me um <a href="lauraifernandes2@gmail.com" target="_blank"><b>e-mail</b></a>
    <p>
   </div>
   <br>
@@ -104,6 +104,8 @@ ou envie-me um <a href="lauraifernandes2@gmail.com"><b>e-mail</b></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/3DS%20Max-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white%22%3E%3C/a%3E&emsp;"></a>
+  &emsp;
 </p>
 </div>
   
@@ -111,10 +113,22 @@ ou envie-me um <a href="lauraifernandes2@gmail.com"><b>e-mail</b></a>
 <p align="center"> 
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
+      <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-0078d7.svg?style=plastic&logo=unity&logoColor=white"></a>
+  &emsp;
+  
+</p>
+  <h3 align=center>👉 Sistemas Operacionais</h3>
+  <p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 </div>
-  
- <h2 align="center">Redes Sociais </h2>
+  <br>
+ <h2 align="center">Redes Sociais ✌</h2>
  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCg2s6u_9_gL4irKO0ifmAfQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -127,6 +141,6 @@ ou envie-me um <a href="lauraifernandes2@gmail.com"><b>e-mail</b></a>
 </div>
  
  <hr>
- <h2 align=center>Uma piada de dev para descontrair ...</h2>
+ <h2 align=center>Uma piada de dev para descontrair ... 😂😂😂</h2>
   <div align=center><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></div>
   
