@@ -21,9 +21,9 @@ ou envie-me um <a href="lauraifernandes2@gmail.com" target="_blank"><b>e-mail</b
 <div>
   <h2 align=center>Formação 🎓</h2>
   <p align=center>
-  ◾ 2020 - Desenvolvimento de Games - FADERGS<br>
+  ◾ 2020 - Desenvolvimento de Games - FADERGS 🎮<br>
     <br>
-  ◾ Cursando - Desenvolvimento Web Full Stack - GROWDEV <br>
+  ◾ Cursando - Desenvolvimento Web Full Stack - GROWDEV 👩‍💻<br>
   </p>
 </div>
 <br>
@@ -31,7 +31,7 @@ ou envie-me um <a href="lauraifernandes2@gmail.com" target="_blank"><b>e-mail</b
 <div>
   <h2 align=center>Experiências Profissionais 💼</h2>
   <p align=center>
-  ◾ Designer Gráfico Freelancer <br>
+  ◾ Designer Gráfico Freelancer 🕑<br>
     <br>
   ◾ Pesquisa de Mercado 📊<br>
     <br>
