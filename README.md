@@ -125,7 +125,7 @@ ou envie-me um <a href="lauraifernandes2@gmail.com"><b>e-mail</b></a>
   
   ![Snake animation](https://github.com/laufrnnds/laufrnnds/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+ 
  <hr>
  <h2 align=center>Uma piada de dev para descontrair ...</h2>
   <div align=center><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></div>
