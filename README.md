@@ -31,11 +31,11 @@ ou envie-me um <a href="lauraifernandes2@gmail.com"><b>e-mail</b></a>
 <div>
   <h2 align=center>Experiências Profissionais 💼</h2>
   <p align=center>
-  ◾ Designer Gráfico Freelancer  <br>
+  ◾ Designer Gráfico Freelancer <br>
     <br>
   ◾ Pesquisa de Mercado 📊<br>
     <br>
-  ◾ Designer de Interiores/Móveis <br>
+  ◾ Designer de Interiores/Móveis 🪑 <br>
   </p>
 </div>
 <br>
@@ -71,64 +71,51 @@ ou envie-me um <a href="lauraifernandes2@gmail.com"><b>e-mail</b></a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
-  &emsp; <br>
+  &emsp; 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
-  &emsp; <br>
+  &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a> <br>
+   </a> 
 </p>
 </div>  
 
-<></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-<p align=center>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;<br>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;<br>
-    <a href="https://www.w3.org/html/" target="_blank"> 
+<div>
+<h3 align=center>👉 Desenvolvimento Frontend</h3>
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
-  &emsp;<br>
+  &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>   
-  &emsp;<br>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;<br>
+  </a> 
+</p>
+</div>
+  
+<div>
+<h3 align=center>👉 Software e ferramentas</h3>
+<p align="center"> 
+  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp; <br>
+  &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp; <br>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
 </p>
-<hr>
+</div>
+  
+  <h3 align=center>👉 IDEs</h3>
+<p align="center"> 
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+</p>
+</div>
+  
  <h2 align="center">Redes Sociais </h2>
+ 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCg2s6u_9_gL4irKO0ifmAfQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/laufrnnds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -138,6 +125,7 @@ ou envie-me um <a href="lauraifernandes2@gmail.com"><b>e-mail</b></a>
   
   ![Snake animation](https://github.com/laufrnnds/laufrnnds/blob/output/github-contribution-grid-snake.svg)
 </div>
+
  <hr>
  <h2 align=center>Uma piada de dev para descontrair ...</h2>
   <div align=center><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></div>
