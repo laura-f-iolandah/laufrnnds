@@ -1,4 +1,4 @@
-<h1align=center>👋 Olá, seja bem-vindo!</h1>
+<h1 align=center>👋 Olá, seja bem-vindo!</h1>
 
 <p align=justify> ◾ 👩‍💻 Sou Laura F. Iolandah, tenho 30 anos e moro em Porto Alegre/RS. No momento trabalho como desenvolvedora Front-end Jr na Arezzo&Co e sou formada em Desenvolvimento de Games pela FADERGS e Desenvolvimento Web Full Stack pela GROWDEV.</p>
 
